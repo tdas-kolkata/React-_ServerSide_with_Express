@@ -20,7 +20,7 @@ sample_data = [
 },
 {
 	sub:"English",
-	scrore:50
+	scrore:560
 }];
 
 
