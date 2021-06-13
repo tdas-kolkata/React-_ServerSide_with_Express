@@ -10,11 +10,11 @@ function Login(props){
 			</div>
 			<div className="container col-sm-4 col-xs-8 mx-auto">
 				<form action="" method="">
-				  <div className="mb-3">
+				  <div className="mb-2">
 				    <label htmlFor="username" className="form-label">Username</label>
 				    <input type="text" className="form-control" id="username"/>
 				  </div>
-				  <div className="mb-3">
+				  <div className="mb-2">
 				    <label htmlFor="InputPassword1" className="form-label">Password</label>
 				    <input type="password" className="form-control" id="InputPassword1"/>
 				  </div>
